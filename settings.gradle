@@ -1,0 +1,9 @@
+//
+//
+rootProject.name = 'android_ndk_opengles'
+
+
+//
+// one line one module
+//
+include ':app'
