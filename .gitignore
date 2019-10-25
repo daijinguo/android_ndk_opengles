@@ -8,6 +8,6 @@
 .externalNativeBuild
 .cxx
 .project
-/.settings
+.settings
 .classpath
 
